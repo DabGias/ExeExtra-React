@@ -1,0 +1,23 @@
+footer {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.divFooter {
+    text-align: center;
+}
+
+.icone {
+    position: relative;
+    top: 1.2em;
+}
+
+.contatoFooter {
+    font-family: 'Aboreto', cursive;
+    font-size: 1.1em;
+    font-weight: bold;
+    display: inline-block;
+    padding: 1.5em;
+}
